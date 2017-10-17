@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Get any Pair</key>
+	<integer>10</integer>
+	<key>Get any Two Pair</key>
+	<integer>20</integer>
+	<key>Get any Three of a Kind</key>
+	<integer>25</integer>
+	<key>Get any Straight</key>
+	<integer>30</integer>
+	<key>Get any Flush</key>
+	<integer>35</integer>
+	<key>Get any Full House</key>
+	<integer>40</integer>
+	<key>Get any Four of a Kind</key>
+	<integer>45</integer>
+	<key>Get any Straight Flush</key>
+	<integer>50</integer>
+	<key>Get any Royal Flush</key>
+	<integer>75</integer>
+	<key>Get a Pair of 2&apos;s</key>
+	<integer>20</integer>
+	<key>Get a Pair of 3&apos;s</key>
+	<integer>20</integer>
+	<key>Get a Pair of 4&apos;s</key>
+	<integer>20</integer>
+	<key>Get a Pair of 5&apos;s</key>
+	<integer>20</integer>
+	<key>Get a Pair of 6&apos;s</key>
+	<integer>20</integer>
+	<key>Get a Pair of 7&apos;s</key>
+	<integer>20</integer>
+	<key>Get a Pair of 8&apos;s</key>
+	<integer>20</integer>
+	<key>Get a Pair of 9&apos;s</key>
+	<integer>20</integer>
+	<key>Get a Pair of 10&apos;s</key>
+	<integer>20</integer>
+	<key>Get a Pair of Jacks</key>
+	<integer>20</integer>
+	<key>Get a Pair of Queens</key>
+	<integer>20</integer>
+	<key>Get a Pair of Kings</key>
+	<integer>20</integer>
+	<key>Get a Pair of Ace&apos;s</key>
+	<integer>20</integer>
+	<key>Get Three 2&apos;s</key>
+	<integer>35</integer>
+	<key>Get Three 3&apos;s</key>
+	<integer>35</integer>
+	<key>Get Three 4&apos;s</key>
+	<integer>35</integer>
+	<key>Get Three 5&apos;s</key>
+	<integer>35</integer>
+	<key>Get Three 6&apos;s</key>
+	<integer>35</integer>
+	<key>Get Three 7&apos;s</key>
+	<integer>35</integer>
+	<key>Get Three 8&apos;s</key>
+	<integer>35</integer>
+	<key>Get Three 9&apos;s</key>
+	<integer>35</integer>
+	<key>Get Three 10&apos;s</key>
+	<integer>35</integer>
+	<key>Get Three Jacks</key>
+	<integer>35</integer>
+	<key>Get Three Queens</key>
+	<integer>35</integer>
+	<key>Get Three Kings</key>
+	<integer>35</integer>
+	<key>Get Three Aces</key>
+	<integer>35</integer>
+	<key>Get Four 2&apos;s</key>
+	<integer>50</integer>
+	<key>Get Four 3&apos;s</key>
+	<integer>50</integer>
+	<key>Get Four 4&apos;s</key>
+	<integer>50</integer>
+	<key>Get Four 5&apos;s</key>
+	<integer>50</integer>
+	<key>Get Four 6&apos;s</key>
+	<integer>50</integer>
+	<key>Get Four 7&apos;s</key>
+	<integer>50</integer>
+	<key>Get Four 8&apos;s</key>
+	<integer>50</integer>
+	<key>Get Four 9&apos;s</key>
+	<integer>50</integer>
+	<key>Get Four 10&apos;s</key>
+	<integer>50</integer>
+	<key>Get Four Jacks</key>
+	<integer>50</integer>
+	<key>Get Four Queens</key>
+	<integer>50</integer>
+	<key>Get Four Kings</key>
+	<integer>50</integer>
+	<key>Get Four Aces</key>
+	<integer>50</integer>
+	<key>Get 5 high Straight</key>
+	<integer>40</integer>
+	<key>Get 6 high Straight</key>
+	<integer>40</integer>
+	<key>Get 7 high Straight</key>
+	<integer>40</integer>
+	<key>Get 8 high Straight</key>
+	<integer>40</integer>
+	<key>Get 9 high Straight</key>
+	<integer>40</integer>
+	<key>Get 10 high Straight</key>
+	<integer>40</integer>
+	<key>Get Jack high Straight</key>
+	<integer>40</integer>
+	<key>Get Queen high Straight</key>
+	<integer>40</integer>
+	<key>Get King high Straight</key>
+	<integer>40</integer>
+	<key>Get Ace high Straight</key>
+	<integer>40</integer>
+</dict>
+</plist>
